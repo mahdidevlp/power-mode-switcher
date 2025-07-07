@@ -31,7 +31,7 @@ A simple and elegant bash script to switch between system power management profi
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/power-mode-switcher.git
+git clone https://github.com/mahdidevlp/power-mode-switcher.git
 cd power-mode-switcher
 
 # Make the script executable
@@ -222,7 +222,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/yourusername/power-mode-switcher/issues) page
+1. Check the [Issues](https://github.com/mahdidevlp/power-mode-switcher/issues) page
 2. Create a new issue with:
    - Your Linux distribution and version
    - Output of `powerprofilesctl list`

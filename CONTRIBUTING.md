@@ -151,7 +151,7 @@ sudo apt install git bash shellcheck  # Ubuntu/Debian
 sudo dnf install git bash ShellCheck  # Fedora
 
 # Clone your fork
-git clone https://github.com/yourusername/power-mode-switcher.git
+git clone https://github.com/mahdidevlp/power-mode-switcher.git
 cd power-mode-switcher
 ```
 
